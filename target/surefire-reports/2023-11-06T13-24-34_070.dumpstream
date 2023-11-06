@@ -1,0 +1,5 @@
+# Created at 2023-11-06T13:24:40.853
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Eclipse Directory\JenkinsPipeline2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
